@@ -69,7 +69,8 @@ public class BirthdayActivity extends BaseActivity {
             if (time.getYears() < 1) {
                 tvHowOld.setText("MONTHS OLD!");
                 return time.getMonths()-1;
-            } else {
+            }
+            else {
                 tvHowOld.setText("YEARS OLD!");
                 return time.getYears();
             }
