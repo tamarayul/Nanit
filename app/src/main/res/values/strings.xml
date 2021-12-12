@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealNanitApp</string>
+    <string name="baby_name">what is your baby name?</string>
+    <string name="show_birthday">show birthday</string>
+    <string name="share_birthday">share the news</string>
+    <string name="upload_a_picture">upload a picture</string>
+</resources>
